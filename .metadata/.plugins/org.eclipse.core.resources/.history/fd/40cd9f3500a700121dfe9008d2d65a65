@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Coffiers</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="title_section1">Mapas</string>
+    <string name="Buscar">Buscar</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
